@@ -1,8 +1,10 @@
-Find the plugin useful? Buy me a coffee
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/VitorHenrique/2)
+An atempt to revive the deprecated plugin of @vitormhenrique see description below. The original plugin does not work in this fork I'll try to dust of this plugin for everyone who still has an DIY enclosure.
 
-# THIS PLUGIN IS DEPRACATED! 
-I'm moving away from it, and when ready the replacement plugin would be here: https://github.com/vitormhenrique/OctoPrint-Enclosure-V2
+# Planned changes compared to original repo
+* Convert deprecated Adafruit DHT22 lib to Adafruit micropython DHT22 lib (WIP)
+
+
+# === ORIGINAL DESCRIPTION OF (DEPRACATED) VERSION =====
 
 # Before opening an issue...
 
